@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "category": "Men",
+        "product_name":"Men Blue & Red Pure Cotton Striped T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/T4jXbNq",
+        "size":"large",
+        "price":600,
+        "color": "blue",
+        "brand": "Roadster"
+    },
+    {
+        "id": 2,
+        "category": "Men",
+        "product_name":"Men Yellow Printed Cotton T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/7k5vcXz",
+        "size":"medium",
+        "price":550,
+        "color": "yellow",
+        "brand": "HRX by Hrithik Roshan"
+    },
+    {
+        "id": 3,
+        "category": "Men",
+        "product_name":"Men Blue & White Pure Cotton T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/x6chBVJ",
+        "size":"large",
+        "price":399,
+        "color": "blue",
+        "brand": "DILLINGER"
+    },
+    {
+        "id":4,
+        "category": "Men",
+        "product_name":"Men Multi Regular fit Cotton Blend Hood T-Shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/MM6Kv4t",
+        "size":"large",
+        "price":479,
+        "color": "blue",
+        "brand": "LEWEL"
+    },
+    {
+        "id":5,
+        "category": "Men",
+        "product_name":"Men Green Slim fit Cotton Round Neck T-Shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/RSpVtX0",
+        "size":"medium",
+        "price":399,
+        "color": "green",
+        "brand": "Urbano Fashion"
+    },
+    {
+        "id":6,
+        "category": "Men",
+        "product_name":"Men White Printed Round Neck T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/qJXY81h",
+        "size":"large",
+        "price":1999,
+        "color": "white",
+        "brand": "Calvin Klein Jeans"
+    },
+    {
+        "id":7,
+        "category": "Men",
+        "product_name":"Men's Modern Stripe Logo-Print T-Shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/ngLhqzQ",
+        "size":"x-large",
+        "price":1399,
+        "color": "black",
+        "brand": "Calvin Klein Jeans"
+    },
+    {
+        "id":8,
+        "category": "Men",
+        "product_name":"Men Pink Printed Round Neck T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/BNNc11c",
+        "size":"x-large",
+        "price":2999,
+        "color": "pink",
+        "brand": "Calvin Klein Jeans"
+    },
+    {
+        "id": 9,
+        "category": "Men",
+        "product_name":"Men Navy Blue Striped T-shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/YQMGJfG",
+        "size":"large",
+        "price":700,
+        "color": "blue",
+        "brand": "Roadster"
+    },
+    {
+        "id": 10,
+        "category": "Men",
+        "product_name":"Men Navy & Maroon Striped Polo T-Shirt",
+        "category_id":"1",
+        "image":"https://ibb.co/3T3006p",
+        "size":"small",
+        "price":1299,
+        "color": "maroon",
+        "brand": "Roadster"
+    }
+
+
+]
